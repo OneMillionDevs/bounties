@@ -1,2 +1,2 @@
-# bounties
-Bounties for One Million Developers
+# Bounties
+To support the Ethereum community the One Million Developers initiative will create bounties when neccesary.
